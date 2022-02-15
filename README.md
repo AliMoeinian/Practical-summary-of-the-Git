@@ -6,4 +6,4 @@
 
 ### Table of Content
 
-_section will be updated soon.._
+_The development of this repository has been completed ❤_
